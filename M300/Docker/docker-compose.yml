@@ -1,0 +1,24 @@
+# Neuste Docker Compose Version
+version: '3'
+# Alle Service
+services:
+# Webdienst
+  web:
+# Dockerfile als Build benutzt
+    build: .
+# Portweiterleitung
+    ports:
+     - "8080:80"
+# Datenbankdienst
+  db:
+# MySQL Docker Image
+    image: mysql
+# Portweiterleitung
+    ports:
+     - "3306:3306"
+# "Umgebung" konfigurieren
+    environment:
+     - MYSQL_ROOT_PASSWORD=erdu
+     - MYSQL_USER=erdu
+     - MYSQL_PASSWORD=erdu
+     - MYSQL_DATABASE=M300 
