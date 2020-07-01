@@ -1,7 +1,7 @@
 # Modul 300 
 Mein Vagrantfile für die LB2 beinhaltet einen einfachen Webserver mit PHP erweiterung und ein MySQL Service plus eine Test DB. 
 
-Wie gewohnt müssen Sie natürlich zuerst dieses Repo bei Ihnen Klonen. Meine Dokumentation finden Sie im Ordner **Dokumentation/** und mein Vagrantfile im Ordner **M300/**. Dann mit einem **vagrant init vagrantfile** und **vagrant up** meine Datei ausführen. 
+Wie gewohnt müssen Sie natürlich zuerst dieses Repo bei Ihnen Klonen. Meine Dokumentation finden Sie im Ordner **Dokumentation** und mein Vagrantfile im Ordner **M300**. Dann mit einem **vagrant init vagrantfile** und **vagrant up** meine Datei ausführen. 
 
 Ich erkläre Ihnen, wie Sie meine Service benutzen können ohne selber lange zu suchen. 
 
