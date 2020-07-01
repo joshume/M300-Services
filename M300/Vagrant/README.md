@@ -1,4 +1,4 @@
-# Modul 300 
+# Leistungsbeurteilung 2 Modul 300
 Ich habe für die LB2 einen einfachen Webserver mit PHP Erweiterung und ein MySQL Service plus eine Test Datenbank erstellt. 
 
 Wie gewohnt müssen Sie natürlich zuerst dieses Repo bei Ihnen Klonen. Meine Dokumentation finden Sie im Ordner **Dokumentation** und mein Vagrantfile im Ordner **M300**. Dann mit einem **vagrant init vagrantfile** und **vagrant up** meine Datei ausführen. 
