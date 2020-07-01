@@ -18,7 +18,7 @@ services:
      - "3306:3306"
 # "Umgebung" konfigurieren
     environment:
-     - MYSQL_ROOT_PASSWORD=erdu
-     - MYSQL_USER=erdu
-     - MYSQL_PASSWORD=erdu
+     - MYSQL_ROOT_PASSWORD=Paolopaolo12
+     - MYSQL_USER=jgn
+     - MYSQL_PASSWORD=Pa$$w0rd
      - MYSQL_DATABASE=M300 
