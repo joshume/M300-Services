@@ -9,5 +9,5 @@ Ich erkläre Ihnen, wie Sie meine Service benutzen können ohne selber lange zu 
 Der Webserver ist unter **localhost:8080** erreichbar. 
 
 ### MySQL
-Der MySQL Server ist unter **mysql --user erdu --password erdu** erreichbar. 
+Der MySQL Server ist unter **mysql --user jgn --password Pa$$w0rd** erreichbar. 
 Mit dem Befehl **mysql -u root -proot -e "CREATE DATABASE ihredbname;"** können Sie schnell und einfach eine DB erstellen. 
