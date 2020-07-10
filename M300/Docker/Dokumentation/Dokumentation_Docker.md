@@ -13,7 +13,7 @@ Zum Schluss gibt es noch ein kleines Fazit zu meiner Erfrahrung mit Docker.
 Mit FROM wird das neuste Nginx Docker Image benutzt für den Webserver. 
 
 `// MAINTAINER jgn joshua.gnehm@outlook.com`<br>
-Als Maintainer wird der Admin des Containers festgehalten. Bei mir jetzt, bin ich, Erduan der Admin. Als Zusatzinformation gebe ich noch die Mail an. 
+Als Maintainer wird der Admin des Containers festgehalten. Bei mir jetzt, bin ich, Joshua der Admin. Als Zusatzinformation gebe ich noch die Mail an. 
 
 `// RUN apt-get -y update && apt-get -y upgrade && apt-get install -y php-fpm`<br>
 RUN führt einen beliebigen Command aus. Der obige Command macht Updates und Upgrades auf dem Betriebsystem, sodass es auf dem neusten Stand ist. Dazu wird noch PHP installiert. 
